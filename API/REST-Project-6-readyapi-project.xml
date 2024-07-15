@@ -204,7 +204,7 @@
   <con:jmsConnectionContainer/>
   <con:oAuth2ProfileContainer>
     <con:oAuth2Profile>
-      <con:name>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</con:name>
+      <con:name></con:name>
       <con:type>OAuth 2.0</con:type>
       <con:accessTokenPosition>HEADER</con:accessTokenPosition>
       <con:oAuth2Flow>AUTHORIZATION_CODE_GRANT</con:oAuth2Flow>
